@@ -8,7 +8,7 @@
     "phone" : "03211234567",
     "message" : "Hello SMS Assistant, This is API call"
   }
-]
+],
 "status" : "Available",
 "total_sms" : 2,
 "frequency" : 1000,
